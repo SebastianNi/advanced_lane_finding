@@ -1,4 +1,4 @@
-In the folder are all the processed calibartion and test images
+This folder contains all the processed calibartion and test images
 ---
 General format:
 * `filename.png`							    <-- Original image
