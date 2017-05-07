@@ -1,6 +1,8 @@
 # Project: Advanced Lane Finding
 ## My 4th Project in the Self-Driving Car Engineer Nanodegree at [Udacity](https://www.udacity.com/)
 
+<img src="output_images/test5_07_result.png" width="880" alt="Combined Image" />
+
 ### Link to the Udacity project repository
 
 https://github.com/udacity/CarND-Advanced-Lane-Lines
