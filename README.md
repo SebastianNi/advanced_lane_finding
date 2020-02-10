@@ -8,7 +8,7 @@
 https://github.com/udacity/CarND-Advanced-Lane-Lines
 
 ### Project Overview
-In this project, I wrote a software pipeline to identify the lane boundaries in a [video](https://drive.google.com/open?id=0B0agIiDyIPj1NVl5QWVwM2hLbGM).
+In this project, I wrote a software pipeline to identify the lane boundaries in a [video](https://youtu.be/B-vfmxFLTNU).
 
 ### Output video
 
